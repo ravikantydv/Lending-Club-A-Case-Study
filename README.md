@@ -69,5 +69,7 @@
 ## Contact
 Created by [Ravikant](https://github.com/ravikantydv) - feel free to contact me!
 
+Created by [Ritik](https://github.com/RitikKumar3) - feel free to contact me!
+
 ## License
 This project is open source and available under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
